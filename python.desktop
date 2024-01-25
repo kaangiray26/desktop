@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Python
+GenericName=Python
+Comment=Python
+Icon=python
+Categories=Development
+Exec=python
+TryExec=python
+Terminal=true
+StartupNotify=true
+StartupWMClass=Python%
